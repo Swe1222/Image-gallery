@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>image gallery</title>
+<link rel="stylesheet" href="image gallery.css">
+</head>
+<body>
+<h1>DOREMON</h1>
+<a href="C:\Users\HP\Documents\d1.jpg">
+<img src="C:\Users\HP\Documents\d1.jpg">
+<a href="C:\Users\HP\Documents\d2.jpg">
+<img src="C:\Users\HP\Documents\d2.jpg">
+<a href="C:\Users\HP\Documents\d3.png">
+<img src="C:\Users\HP\Documents\d3.png">
+<a href="C:\Users\HP\Documents\d4.jpg">
+<img src="C:\Users\HP\Documents\d4.jpg">
+<a href="C:\Users\HP\Documents\d5.png">
+<img src="C:\Users\HP\Documents\d5.png">
+<a href="C:\Users\HP\Documents\d6.png">
+<img src="C:\Users\HP\Documents\d6.png">
+<a href="C:\Users\HP\Documents\d6.jpg">
+<img src="C:\Users\HP\Documents\d6.jpg">
+<a href="C:\Users\HP\Documents\d7.jpg">
+<img src="C:\Users\HP\Documents\d7.jpg">
+<a href="C:\Users\HP\Documents\d8.png">
+<img src="C:\Users\HP\Documents\d8.png">
+<a href="C:\Users\HP\Documents\d01.jpg">
+<img src="C:\Users\HP\Documents\d01.jpg">
+<a href="C:\Users\HP\Documents\d10.jpg">
+<img src="C:\Users\HP\Documents\d10.jpg">
+<a href="C:\Users\HP\Documents\d11.jpg">
+<img src="C:\Users\HP\Documents\d11.jpg">
+<a href="C:\Users\HP\Documents\d12.jpg">
+<img src="C:\Users\HP\Documents\d12.jpg">
+<a href="C:\Users\HP\Documents\d13.jpg">
+<img src="C:\Users\HP\Documents\d13.jpg">
+<a href="C:\Users\HP\Documents\d14.jpg">
+<img src="C:\Users\HP\Documents\d14.jpg">
+<a href="C:\Users\HP\Documents\d15.jpg">
+<img src="C:\Users\HP\Documents\d15.jpg"></a>
+<h1>MINIONS</h1>
+<img src="C:\Users\HP\Documents\minion1.jpg">
+<a href="C:\Users\HP\Documents\minion1.jpg">
+<a href="C:\Users\HP\Documents\minion2.jpg">
+<img src="C:\Users\HP\Documents\minion2.jpg">
+<a href="C:\Users\HP\Documents\m11.jpg">
+<img src="C:\Users\HP\Documents\m11.jpg">
+<a href="C:\Users\HP\Documents\m12.jpg">
+<img src="C:\Users\HP\Documents\m12.jpg">
+<a href="C:\Users\HP\Documents\m13.jpg">
+<img src="C:\Users\HP\Documents\m13.jpg">
+<a href="C:\Users\HP\Documents\m14.jpg">
+<img src="C:\Users\HP\Documents\m14.jpg">
+<a href="C:\Users\HP\Documents\m15.jpg">
+<img src="C:\Users\HP\Documents\m15.jpg">
+<a href="C:\Users\HP\Documents\m16.png">
+<img src="C:\Users\HP\Documents\m16.png"></a>
+<h1>DISNEY WORLD</h1>
+<a href="C:\Users\HP\Documents\disney1.jpg">
+<img src="C:\Users\HP\Documents\disney1.jpg">
+<a href="C:\Users\HP\Documents\disney 4.jpeg">
+<img src="C:\Users\HP\Documents\disney 4.jpeg">
+<a href="C:\Users\HP\Documents\disney6.jpg">
+<img src="C:\Users\HP\Documents\disney6.jpg">
+<a href="C:\Users\HP\Documents\d9.jpg">
+<img src="C:\Users\HP\Documents\d9.jpg">
+<a href="C:\Users\HP\Documents\disney7.jpg">
+<img src="C:\Users\HP\Documents\disney7.jpg">
+<a href="C:\Users\HP\Documents\disney8.jpg">
+<img src="C:\Users\HP\Documents\disney8.jpg">
+<a href="C:\Users\HP\Documents\disney2.jpg">
+<img src="C:\Users\HP\Documents\disney2.jpg">
+<a href="C:\Users\HP\Documents\disney3.jpg">
+<img src="C:\Users\HP\Documents\disney3.jpg">
+</body>
+</html>
